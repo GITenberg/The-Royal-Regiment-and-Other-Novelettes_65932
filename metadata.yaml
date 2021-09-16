@@ -1,0 +1,29 @@
+_repo: The-Royal-Regiment-and-Other-Novelettes_65932
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grant, James
+    birthdate: 1822
+    deathdate: 1887
+    gutenberg_agent_id: '8949'
+    url: http://www.gutenberg.org/2009/agents/8949
+    wikipedia: https://en.wikipedia.org/wiki/James_Grant_(1822%E2%80%931887)
+description: ''
+gutenberg_issued: '2021-07-27'
+identifiers:
+  gutenberg: '65932'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Fiction'
+- !lcsh 'Scotland -- History, Military -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The Royal Regiment -- The secret marriage -- The student's story
+  -- Clare Thorne's temptation -- The great sea serpent -- Military "folk lore" --
+  Story of a merchant captain -- The story of Renée of Angers -- Anna Schonleben --
+  Laura Wenlock's Christmas Eve.
+title: The Royal Regiment, and Other Novelettes
+url: http://www.gutenberg.org/ebooks/65932
